@@ -16,6 +16,7 @@ public class Maze : MonoBehaviour
         InitializeMap();
         CrawlMap();
         DrawMap();
+        MazeXMLParser.loadXMLDoc();
 
     }
 

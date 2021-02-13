@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<Maze>
+        <MoveForward>W</MoveForward>
+        <MoveBack>S</MoveBack>
+        <TurnLeft>A</TurnLeft>
+        <TurnRight>D</TurnRight>
+</Maze>
